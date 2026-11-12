@@ -172,3 +172,4 @@ d63b2f44db8ec4a1d8471a24df3688d5fded5779fb13d9ae321af4e4f5d71262  train/4/3/colo
 0fb5f3b18724e905ce7a825cc427b205d76484b1b816be207a9e48b24f7b73a7  train/6/2/color/2/1.jpg
 1febc9aca48dd7d0daedf65c34c5453afbbc4678eb23d151306ca983dde6be1a  train/6/3/color/2/1.jpg
 5589e5b9d20df5f0096aedb36e63c65bdadbef6de0441b8d01ab32dabd4d5875  train/6/4/color/2/1.jpg
+0cc95d2f316a3525afaccb881c87fec7d327f6c272c14ba39f93fa013cba836c  train/6/4/color/2/2.jpg
